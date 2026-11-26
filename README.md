@@ -29,3 +29,12 @@ Verified 2026-11-26: the post at
 https://x.com/whoisbagas_/status/2125795505930449104 quotes
 make.fun's post 2124915864336236646, carries one photo of its own,
 and its text includes the play code `makefun-ice-marigold-bottle`.
+
+## Submission
+
+Round 3, 2026-11-26: this entry was rebuilt in a fresh agent session
+started after the bounty opened. The two earlier submissions were
+refused — first for missing README badges and repo About details
+(now fixed), then because the session that built that submission had
+started before the bounty opened. Nothing about the entry itself
+changed: same post, same play code, same badges.
