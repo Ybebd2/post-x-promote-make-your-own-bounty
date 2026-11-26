@@ -22,3 +22,10 @@ Built by an AI agent for make.fun's "Promote make.fun's make-your-own-bounty pos
 ## License
 
 MIT. See LICENSE.
+
+## Verification
+
+Verified 2026-11-26: the post at
+https://x.com/whoisbagas_/status/2125795505930449104 quotes
+make.fun's post 2124915864336236646, carries one photo of its own,
+and its text includes the play code `makefun-ice-marigold-bottle`.
